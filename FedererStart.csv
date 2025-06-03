@@ -1,0 +1,45 @@
+match_id,Player 1,Player 2,Pl 1 hand,Pl 2 hand,Date,Tournament,Round,Time,Court,Surface,Umpire,Best of,Final TB?,Charted by,Winner
+20061119-M-Masters_Cup-F-Roger_Federer-James_Blake,Roger Federer,James Blake,R,R,20061119,Masters Cup,F,,Centre,Hard,Lars Graff,5,1,Edo,True
+20061114-M-Masters_Cup-RR-Roger_Federer-Andy_Roddick,Roger Federer,Andy Roddick,R,R,20061114,Masters Cup,RR,,,Hard,,3,1,Natf,True
+20061113-M-Masters_Cup-SF-Roger_Federer-Rafael_Nadal,Roger Federer,Rafael Nadal,R,L,20061113,Masters Cup,SF,,Center,Hard,Mohamed Lahyani,3,1,Isaac,True
+20061029-M-Basel-F-Roger_Federer-Fernando_Gonzalez,Roger Federer,Fernando Gonzalez,R,R,20061029,Basel,F,,Centre,Hard,Norm Chryst,5,1,Edo,True
+20061025-M-Basel-R32-Roger_Federer-Tomas_Zib,Roger Federer,Tomas Zib,R,R,20061025,Basel,R32,6pm,Centre,Hard,Pascal Maria,3,1,Edo,True
+20061022-M-Madrid_Masters-F-Roger_Federer-Fernando_Gonzalez,Roger Federer,Fernando Gonzalez,R,R,20061022,Madrid Masters,F,15:40,Central,Hard,Mohamed Lahyani,5,1,Edo,True
+20061021-M-Madrid_Masters-SF-Roger_Federer-David_Nalbandian,Roger Federer,David Nalbandian,R,R,20061021,Madrid Masters,SF,16:05,Centre,Hard,Romano Grillotti,3,1,Edo,True
+20061008-M-Tokyo-F-Roger_Federer-Tim_Henman,Roger Federer,Tim Henman,R,R,20061008,Tokyo,F,2:00:00 PM,Centre,Hard,Fergus Murphy,3,1,Edo,True
+20061004-M-Tokyo-QF-Roger_Federer-Takao_Suzuki,Roger Federer,Takao Suzuki,R,R,20061004,Tokyo,QF,7pm,Centre,Hard,Steve Ullrich,3,1,Edo,True
+20061003-M-Tokyo-R16-Roger_Federer-Wesley_Moodie,Roger Federer,Wesley Moodie,R,R,20061003,Tokyo,R16,7pm,Centre,Hard,Fergus Murphy,3,1,Edo,True
+20060922-M-Davis_Cup_World_Group_PO-RR-Roger_Federer-Novak_Djokovic,Roger Federer,Novak Djokovic,R,R,20060922,Davis Cup World Group PO,RR,,,Hard,,3,1,Isaac,True
+20060910-M-US_Open-F-Roger_Federer-Andy_Roddick,Roger Federer,Andy Roddick,R,R,20060910,US Open,F,,Arthur Ashe,Hard,Carlos Bernardes,5,1,Palaver,True
+20060909-M-US_Open-SF-Roger_Federer-Nikolay_Davydenko,Roger Federer,Nikolay Davydenko,R,R,20060909,US Open,SF,12:20,Ashe,Hard,Sandra de Jenken,5,1,Edo,True
+20060907-M-US_Open-QF-James_Blake-Roger_Federer,James Blake,Roger Federer,R,R,20060907,US Open,QF,,Arthur Ashe Stadium,Hard,,5,1,Palaver,True
+20060830-M-US_Open-R128-Jimmy_Wang-Roger_Federer,Jimmy Wang,Roger Federer,R,R,20060830,US Open,R128,2:30 PM,Ashe,Hard,,5,1,BG,True
+20060816-M-Cincinnati_Masters-R32-Roger_Federer-Andy_Murray,Roger Federer,Andy Murray,R,R,20060816,Cincinnati Masters,R32,14:30,Centre,Hard,Carlos Bernardes,3,1,Edo,False
+20060813-M-Canada_Masters-F-Roger_Federer-Richard_Gasquet,Roger Federer,Richard Gasquet,R,R,20060813,Canada Masters,F,,Toronto,Hard,Steve Ullrich,3,1,Edo,True
+20060812-M-Canada_Masters-SF-Roger_Federer-Fernando_Gonzalez,Roger Federer,Fernando Gonzalez,R,R,20060812,Canada Masters,SF,7pm,Stadium,Hard,Lars Graff,3,1,Edo,True
+20060709-M-Wimbledon-F-Roger_Federer-Rafael_Nadal,Roger Federer,Rafael Nadal,R,L,20060709,Wimbledon,F,14:10,Centre,Grass,,5,0,Palaver,True
+20060707-M-Wimbledon-SF-Jonas_Bjorkman-Roger_Federer,Jonas Bjorkman,Roger Federer,R,R,20060707,Wimbledon,SF,15:10,Centre,Grass,Sandra de Jenken,5,0,Edo,True
+20060705-M-Wimbledon-QF-Mario_Ancic-Roger_Federer,Mario Ancic,Roger Federer,R,R,20060705,Wimbledon,QF,,Centre,Grass,,5,0,abmk,False
+20060627-M-Wimbledon-R128-Roger_Federer-Richard_Gasquet,Roger Federer,Richard Gasquet,R,R,20060627,Wimbledon,R128,,,Grass,,5,0,Amy,False
+20060618-M-Halle-F-Roger_Federer-Tomas_Berdych,Roger Federer,Tomas Berdych,R,R,20060618,Halle,F,13:00,Stadion,Grass,Fergus Murphy,3,1,Edo,True
+20060611-M-Roland_Garros-F-Roger_Federer-Rafael_Nadal,Roger Federer,Rafael Nadal,R,L,20060611,Roland Garros,F,15:15,Philippe Chatrier,Clay,,5,0,Edo,False
+20060609-M-Roland_Garros-SF-Roger_Federer-David_Nalbandian,Roger Federer,David Nalbandian,R,R,20060609,Roland Garros,SF,15:30,Philippe Chatrier,Clay,Pascal Maria,5,0,Edo,True
+20060607-M-Roland_Garros-QF-Roger_Federer-Mario_Ancic,Roger Federer,Mario Ancic,R,R,20060607,Roland Garros,QF,3pm,Chatrier,Clay,,5,0,Edo,True
+20060528-M-Roland_Garros-R128-Roger_Federer-Diego_Hartfield,Roger Federer,Diego Hartfield,R,R,20060528,Roland Garros,R128,3pm,Chatrier,Clay,Emmanuel Joseph,5,0,Edo,True
+20060514-M-Rome_Masters-F-Roger_Federer-Rafael_Nadal,Roger Federer,Rafael Nadal,R,L,20060514,Rome Masters,F,,Centrale,Clay,Romano Grillotti,5,1,Salvo,False
+20060513-M-Rome_Masters-SF-Roger_Federer-David_Nalbandian,Roger Federer,David Nalbandian,R,R,20060513,Rome Masters,SF,14:35,Centre,Clay,Lars Graff,3,1,Edo,True
+20060423-M-Monte_Carlo_Masters-F-Roger_Federer-Rafael_Nadal,Roger Federer,Rafael Nadal,R,L,20060423,Monte Carlo Masters,F,14:40,Central,Clay,Gerry Armstrong,5,1,Edo,False
+20060422-M-Monte_Carlo_Masters-SF-Fernando_Gonzalez-Roger_Federer,Fernando Gonzalez,Roger Federer,R,R,20060422,Monte Carlo Masters,SF,16:45,Centre,Clay,Steve Ullrich,3,1,Edo,True
+20060420-M-Monte_Carlo_Masters-R16-Roger_Federer-Benjamin_Balleret,Roger Federer,Benjamin Balleret,R,R,20060420,Monte Carlo Masters,R16,2pm,Centre,Clay,Carlos Bernardes,3,1,Edo,True
+20060419-M-Monte_Carlo_Masters-R64-Novak_Djokovic-Roger_Federer,Novak Djokovic,Roger Federer,R,R,20060419,Monte Carlo Masters,R64,2:30:00 PM,Central,Clay,Pascal Maria,3,1,Edo,True
+20060326-M-Miami_Masters-F-Roger_Federer-Ivan_Ljubicic,Roger Federer,Ivan Ljubicic,R,R,20060326,Miami Masters,F,3:00:00 PM,Centre,Hard,Carlos Bernardes,5,1,Edo,True
+20060325-M-Miami_Masters-SF-Roger_Federer-David_Ferrer,Roger Federer,David Ferrer,R,R,20060325,Miami Masters,SF,8pm,Centre,Hard,Mohamed Lahyani,3,1,Edo,True
+20060319-M-Indian_Wells_Masters-F-Roger_Federer-James_Blake,Roger Federer,James Blake,R,R,20060319,Indian Wells Masters,F,2:00:00 PM,Centre,Hard,Lars Graff,5,1,Edo,True
+20060311-M-Indian_Wells_Masters-SF-Roger_Federer-Paradorn_Srichaphan,Roger Federer,Paradorn Srichaphan,R,R,20060311,Indian Wells Masters,SF,11.30am,Stadium,Hard,Fergus Murphy,3,1,Edo,True
+20060305-M-Dubai-F-Roger_Federer-Rafael_Nadal,Roger Federer,Rafael Nadal,R,L,20060305,Dubai,F,,,Hard,,3,1,Isaac,False
+20060302-M-Dubai-QF-Roger_Federer-Robin_Vik,Roger Federer,Robin Vik,R,R,20060302,Dubai,QF,7pm,Centre,Hard,Mohamed Lahyani,3,1,Edo,True
+20060126-M-Australian_Open-SF-Roger_Federer-Nicolas_Kiefer,Roger Federer,Nicolas Kiefer,R,R,20060126,Australian Open,SF,20:45,Rod Laver Arena,Hard,Carlos Ramos,5,0,Edo,True
+20060125-M-Australian_Open-QF-Roger_Federer-Nikolay_Davydenko,Roger Federer,Nikolay Davydenko,R,R,20060125,Australian Open,QF,,Rod Laver Arena,Hard,Sandra De Jenken,5,1,Palaver,True
+20060123-M-Australian_Open-R16-Tommy_Haas-Roger_Federer,Tommy Haas,Roger Federer,R,R,20060123,Australian Open,R16,,Laver,Hard,C. Ramos,5,0,BG,True
+20060117-M-Australian_Open-R128-Roger_Federer-Denis_Istomin,Roger Federer,Denis Istomin,R,R,20060117,Australian Open,R128,,Laver,Hard,J. Garner,5,0,BG,True
+20060107-M-Doha-F-Roger_Federer-Gael_Monfils,Roger Federer,Gael Monfils,R,R,20060107,Doha,F,19:00,Centre,Hard,Mohamed Lahyani,3,1,Edo,True

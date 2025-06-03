@@ -1,1 +1,3 @@
-*.csv
+/BaseData/*.csv
+/Federer_data
+/ProjData
