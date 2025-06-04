@@ -171,7 +171,7 @@ def GetGamesResults(Points):
     return NewPoints
 
 def Translate(s):
-    chars_to_remove = "789+-^;=c!CRSQ "  # Specify characters to remove
+    chars_to_remove = "789+-^;=cg!CRSQ "  # Specify characters to remove
     translation_table = str.maketrans('', '', chars_to_remove)
     updated_text = s.translate(translation_table)
 
